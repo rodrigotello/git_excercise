@@ -23,3 +23,5 @@ $ git clone https://github.com/rodrigotello/git_excercise.git
 
 First Machine:
 9. Create a branch for Staging and Back-End
+
+#### Note: If you change from branch to branch without commiting, you lose whatever you've been working on
