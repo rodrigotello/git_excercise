@@ -19,9 +19,14 @@ First Machine:
 
 Second Machine:
 8. Clone the Git from GitHub with this command:
-$ git clone https://github.com/rodrigotello/git_excercise.git
+- $ git clone https://github.com/rodrigotello/git_excercise.git
 
 First Machine:
 9. Create a branch for Staging and Back-End
 
-#### Note: If you change from branch to branch without commiting, you lose whatever you've been working on
+** Note: If you change from branch to branch without commiting, you lose whatever you've been working on. **
+
+10. Merge the branches Staging and Back-End, since the Readme was updated after creating the branches.
+** Note: you should be in the older branch and target the branch with the newest version. For example:
+- $ git merge back-end
+That will pull the new code into an older branch.
